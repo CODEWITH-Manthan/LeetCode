@@ -19,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0101-symmetric-tree) |
+## Array
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
