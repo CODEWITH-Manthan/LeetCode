@@ -35,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
