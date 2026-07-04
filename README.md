@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0101-symmetric-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0101-symmetric-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Array
 |  |
 | ------- |
@@ -38,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -58,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0191-number-of-1-bits) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
