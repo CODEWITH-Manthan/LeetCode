@@ -7,19 +7,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Array
 |  |
