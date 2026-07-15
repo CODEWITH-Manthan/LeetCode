@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0062-unique-paths) |
 | [0227-basic-calculator-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## String
 |  |
@@ -124,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
