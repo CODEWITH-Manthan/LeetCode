@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -102,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
