@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0112-path-sum) |
+| [0341-flatten-nested-list-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,17 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Design
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Linked List
 |  |
 | ------- |
