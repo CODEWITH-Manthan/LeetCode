@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0686-repeated-string-match](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0686-repeated-string-match) |
 ## Simulation
 |  |
 | ------- |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
