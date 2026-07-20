@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1260-shift-2d-grid](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3925-concatenate-array-with-reverse](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1260-shift-2d-grid](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/1260-shift-2d-grid) |
 ## String Matching
 |  |
 | ------- |
