@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0069-sqrtx) |
 | [0227-basic-calculator-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## String
 |  |
