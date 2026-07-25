@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0062-unique-paths) |
 | [0227-basic-calculator-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## String
