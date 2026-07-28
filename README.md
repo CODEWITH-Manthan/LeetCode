@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0169-majority-element) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0027-remove-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Sorting
