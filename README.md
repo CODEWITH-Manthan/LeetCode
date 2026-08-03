@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Sorting
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## String
 |  |
