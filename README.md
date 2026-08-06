@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
