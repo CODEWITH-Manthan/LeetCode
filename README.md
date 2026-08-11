@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0686-repeated-string-match](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0686-repeated-string-match) |
 ## Simulation
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
