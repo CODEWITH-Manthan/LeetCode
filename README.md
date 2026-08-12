@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0686-repeated-string-match](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0686-repeated-string-match) |
 ## Simulation
 |  |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
