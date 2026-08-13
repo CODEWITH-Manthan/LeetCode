@@ -218,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0409-longest-palindrome) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
