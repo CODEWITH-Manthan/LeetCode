@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1260-shift-2d-grid](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
