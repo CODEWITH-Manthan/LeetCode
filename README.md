@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0173-binary-search-tree-iterator) |
@@ -13,17 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0112-path-sum) |
 | [0341-flatten-nested-list-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0173-binary-search-tree-iterator) |
