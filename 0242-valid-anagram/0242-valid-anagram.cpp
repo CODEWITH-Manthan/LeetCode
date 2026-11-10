@@ -7,6 +7,8 @@ public:
       if(s==t){
         return true;
       }
-      return false;
+      else{
+        return false;
+      }
     }
 };
