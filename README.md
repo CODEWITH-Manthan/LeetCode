@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0686-repeated-string-match](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/0686-repeated-string-match) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/CODEWITH-Manthan/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Simulation
 |  |
 | ------- |
